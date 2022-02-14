@@ -13,7 +13,7 @@ Comando para status dos procedimentos
 
     git status
 
-Comando para "Mandar o save para a nuvem"
+Comando para "Mandar save para a nuvem"
 
     git push
 
